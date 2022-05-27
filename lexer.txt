@@ -1,0 +1,72 @@
+TYPE : int
+ID : ab
+SEMI : ;
+TYPE : char*
+ID : cd
+SEMI : ;
+TYPE : char *
+ID : func
+PARANTHESIS : (
+TYPE : char*
+ID : string1
+COMMA : ,
+TYPE : char *
+ID : string_2
+PARANTHESIS : )
+BRACES : {
+KEYWORD : return
+ID : string_2
+SEMI : ;
+BRACES : }
+TYPE : int
+ID : main
+PARANTHESIS : (
+PARANTHESIS : )
+BRACES : {
+TYPE : int
+ID : c
+ASSIGN : =
+NUM : 749579
+SEMI : ;
+TYPE : int
+ID : a
+ASSIGN : =
+ID : a
+ARITHEMATIC OPERATOR : +
+ID : c
+SEMI : ;
+KEYWORD : if
+PARANTHESIS : (
+ID : c
+RELATIONAL OPERATOR : ==
+NUM : 5
+PARANTHESIS : )
+BRACES : {
+TYPE : char *
+ID : h
+ASSIGN : =
+ID : display
+PARANTHESIS : (
+ID : r
+COMMA : ,
+ID : s
+PARANTHESIS : )
+SEMI : ;
+BRACES : }
+KEYWORD : else
+BRACES : {
+TYPE : char *
+ID : h
+ASSIGN : =
+ID : display
+PARANTHESIS : (
+ID : s
+COMMA : ,
+ID : r
+PARANTHESIS : )
+SEMI : ;
+BRACES : }
+KEYWORD : return
+NUM : 12323
+SEMI : ;
+BRACES : }

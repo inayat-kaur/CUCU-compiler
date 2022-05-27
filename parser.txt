@@ -1,0 +1,11 @@
+Global Variable: ab  Variable declaration
+Global Variable: cd  Variable declaration
+Argument:string1 Argument:string_2 Variable:string_2   Return Statement
+Identifier: func  Function definition
+Constant:749579  = c   Assignment Statement
+Variable:a Variable:c Operator:+  = a   Assignment Statement
+Variable:c Constant:5 Operator:== Variable:r Variable:s Argument  Argument  Identifier: h   Function Call
+Variable:s Variable:r Argument  Argument  Identifier: h   Function Call
+  If-Else Statement
+Constant:12323   Return Statement
+Identifier: main  Function definition
